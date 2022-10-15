@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "876776976367",
+    "firebase_url": "https://realtimemessnger.firebaseio.com",
+    "project_id": "realtimemessnger",
+    "storage_bucket": "realtimemessnger.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:876776976367:android:ff39195ea6e41cbd03901a",
+        "android_client_info": {
+          "package_name": "com.graybuster.nekowallet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "876776976367-j4dibt9stkcvodl6gqnb34ruc2gscrco.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.graybuster.nekowallet",
+            "certificate_hash": "7094d4f2f5bd7f870690c5b8bbd407def4bad27f"
+          }
+        },
+        {
+          "client_id": "876776976367-ls6dubmaukprho3me45i4kso51qhmgd3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBD-45mqL5MGf7sTb-8CQwRJIC7VZ2kWG0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "876776976367-ls6dubmaukprho3me45i4kso51qhmgd3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "876776976367-2suekfq42ctlvl0kq501psvsj5lm3l02.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.graybuster.flutterChat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
